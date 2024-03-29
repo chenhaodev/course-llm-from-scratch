@@ -4,3 +4,6 @@
 [submodule "exercises/LLMs-from-scratch"]
 	path = exercises/LLMs-from-scratch
 	url = https://github.com/rasbt/LLMs-from-scratch
+[submodule "exercises/scratch-llm"]
+	path = exercises/scratch-llm
+	url = https://github.com/clabrugere/scratch-llm
