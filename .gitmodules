@@ -7,3 +7,9 @@
 [submodule "exercises/scratch-llm"]
 	path = exercises/scratch-llm
 	url = https://github.com/clabrugere/scratch-llm
+[submodule "exercises/TinyLlama"]
+	path = exercises/TinyLlama
+	url = git@github.com:jzhang38/TinyLlama.git
+[submodule "exercises/advanced/nanoGPT"]
+	path = exercises/advanced/nanoGPT
+	url = git@github.com:karpathy/nanoGPT.git
