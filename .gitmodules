@@ -1,0 +1,6 @@
+[submodule "exercises/create-million-parameter-llm-from-scratch"]
+	path = exercises/create-million-parameter-llm-from-scratch
+	url = https://github.com/FareedKhan-dev/create-million-parameter-llm-from-scratch
+[submodule "exercises/LLMs-from-scratch"]
+	path = exercises/LLMs-from-scratch
+	url = https://github.com/rasbt/LLMs-from-scratch
